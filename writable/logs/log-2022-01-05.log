@@ -1,0 +1,420 @@
+CRITICAL - 2022-01-05 00:04:07 --> Undefined index: productQuantity
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 60, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 00:04:53 --> Undefined index: productQuantityIn
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 61, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 00:05:33 --> Undefined index: productQuantityIn
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 61, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 00:06:12 --> Undefined index: productQuantityIn
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 61, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 00:07:12 --> Undefined index: productQuantityIn
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 61, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 00:11:45 --> Undefined index: productQuantityIn
+#0 C:\wamp64\www\oneProject\app\Views\index1.php(230): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 230, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('index1', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(17): view('index1', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+ERROR - 2022-01-05 01:20:49 --> Error connecting to the database: The server requested authentication method unknown to the client
+CRITICAL - 2022-01-05 01:20:49 --> Unable to connect to the database.
+Main connection [MySQLi]: The server requested authentication method unknown to the client
+#0 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\wamp64\www\oneProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\wamp64\www\oneProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(12): CodeIgniter\BaseModel->findAll()
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 01:24:30 --> Undefined index: productCode
+#0 C:\wamp64\www\oneProject\app\Views\index1.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 224, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('index1', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('index1', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 01:24:39 --> Undefined index: productCode
+#0 C:\wamp64\www\oneProject\app\Views\index1.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 224, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('index1', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('index1', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 01:35:22 --> Undefined index: productCode
+#0 C:\wamp64\www\oneProject\app\Views\index1.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 224, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('index1', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('index1', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 01:36:33 --> Undefined index: productcode
+#0 C:\wamp64\www\oneProject\app\Views\index1.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 224, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('index1', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('index1', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 01:37:25 --> Undefined index: productcode
+#0 C:\wamp64\www\oneProject\app\Views\index1.php(224): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 224, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('index1', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('index1', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 01:39:38 --> Undefined index: productCode
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 60, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 01:40:19 --> Undefined index: productCode
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 60, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 01:41:08 --> Undefined index: productCode
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 60, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 01:42:02 --> Undefined index: productCode
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 60, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 01:42:20 --> Undefined index: productCode
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 60, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 03:48:03 --> Undefined index: productQuantityIn
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(173): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 173, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 03:49:33 --> Undefined index: productcode
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 42, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 03:59:22 --> Undefined index: id
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(172): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 172, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 04:37:14 --> Undefined index: PWithVat
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(165): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 165, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 04:42:06 --> Undefined index: PWithVat
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(165): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 165, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 04:42:08 --> Undefined index: PWithVat
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(165): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 165, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 05:26:37 --> Undefined index: productId
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(157): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 157, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 05:27:02 --> Undefined index: productId
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(157): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 157, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 05:27:03 --> Undefined index: productId
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(157): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 157, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 05:27:15 --> Undefined index: productId
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(157): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 157, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(22): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-05 06:00:11 --> Undefined variable: subTotal
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 82, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 06:08:16 --> A non-numeric value encountered
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\wamp64\\www\\o...', 85, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 14:41:41 --> Undefined variable: oldarray
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 117, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 14:46:39 --> Undefined variable: productId
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 103, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 14:47:09 --> Call to undefined method App\Controllers\Home::remove()
+#0 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#5 {main}
+CRITICAL - 2022-01-05 14:47:59 --> Undefined property: App\Controllers\Home::$cart
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\o...', 106, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 14:49:24 --> Call to a member function delete() on array
+#0 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#5 {main}
+CRITICAL - 2022-01-05 14:57:34 --> Call to a member function remove() on array
+#0 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#5 {main}
+CRITICAL - 2022-01-05 15:06:56 --> Call to a member function delete() on string
+#0 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#5 {main}
+CRITICAL - 2022-01-05 15:09:18 --> Undefined variable: value
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(99): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 99, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 15:11:21 --> Undefined variable: session
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(98): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 98, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 15:12:51 --> Class name must be a valid object or a string
+#0 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#5 {main}
+CRITICAL - 2022-01-05 15:13:12 --> Call to a member function find() on array
+#0 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#5 {main}
+CRITICAL - 2022-01-05 15:13:58 --> Call to a member function find() on array
+#0 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#5 {main}
+CRITICAL - 2022-01-05 20:38:47 --> Undefined index: data
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(106): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 106, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 20:43:12 --> Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\wamp64\\www\\o...', 108, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-05 20:46:10 --> array_splice() expects at least 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'array_splice() ...', 'C:\\wamp64\\www\\o...', 107, Array)
+#1 C:\wamp64\www\oneProject\app\Controllers\Home.php(107): array_splice(Array)
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('1')
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#7 {main}
+CRITICAL - 2022-01-05 22:30:53 --> Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\wamp64\\www\\o...', 108, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->sessionDelete('2')
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}

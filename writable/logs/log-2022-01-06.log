@@ -1,0 +1,473 @@
+CRITICAL - 2022-01-06 00:28:50 --> Undefined index: date
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(138): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 138, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInSubmit()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 00:30:22 --> Undefined variable: productInModel
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(142): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 142, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInSubmit()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 00:48:47 --> Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\wamp64\\www\\o...', 96, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 00:54:54 --> Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP)
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\wamp64\\www\\o...', 98, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 00:55:49 --> Undefined offset: 1
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(101): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\wamp64\\www\\o...', 101, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 00:56:14 --> Undefined offset: 2
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(101): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\wamp64\\www\\o...', 101, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 00:58:06 --> Undefined offset: 1
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(100): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\wamp64\\www\\o...', 100, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInData()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 01:31:52 --> Undefined variable: taka
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(188): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 188, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(25): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-06 01:39:53 --> Undefined variable: taka
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(188): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 188, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(25): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-06 02:19:52 --> Undefined variable: discount
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(312): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 312, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(25): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-06 02:23:41 --> Undefined variable: input
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(112): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 112, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInSubmit()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 02:24:10 --> Undefined variable: input
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(112): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 112, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInSubmit()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 02:25:42 --> Undefined variable: input
+#0 C:\wamp64\www\oneProject\app\Controllers\Home.php(112): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\o...', 112, Array)
+#1 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->PostInSubmit()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#6 {main}
+CRITICAL - 2022-01-06 03:55:10 --> Undefined index: productId
+#0 C:\wamp64\www\oneProject\app\Views\indexb.php(418): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 418, Array)
+#1 C:\wamp64\www\oneProject\system\View\View.php(214): include('C:\\wamp64\\www\\o...')
+#2 C:\wamp64\www\oneProject\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\oneProject\system\Common.php(1097): CodeIgniter\View\View->render('indexb', Array, true)
+#4 C:\wamp64\www\oneProject\app\Controllers\Home.php(25): view('indexb', Array)
+#5 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#10 {main}
+CRITICAL - 2022-01-06 04:19:48 --> Undefined index: search
+#0 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\o...', 30, Array)
+#1 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#2 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->GetData()
+#3 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#7 {main}
+ERROR - 2022-01-06 04:22:18 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:22:18 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:23:20 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:23:20 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:23:37 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:23:37 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:23:42 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:23:42 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:23:47 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:23:47 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:23:59 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:23:59 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:25:02 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:25:02 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:26:36 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:26:36 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:27:43 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:27:43 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:30:11 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:30:11 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:31:42 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:31:42 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:31:54 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:31:54 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:32:09 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:32:09 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:32:55 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:32:55 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:33:45 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:33:45 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:34:04 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:34:04 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:37:10 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:37:10 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:37:25 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:37:25 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 04:39:09 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 04:39:09 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(50): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 05:13:43 --> Column 'products_list_id' in where clause is ambiguous
+CRITICAL - 2022-01-06 05:13:43 --> Column 'products_list_id' in where clause is ambiguous
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(52): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 05:13:54 --> Column 'products_list_id' in where clause is ambiguous
+CRITICAL - 2022-01-06 05:13:54 --> Column 'products_list_id' in where clause is ambiguous
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(52): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 05:16:08 --> Unknown column 'products_sales.products_list_id' in 'on clause'
+CRITICAL - 2022-01-06 05:16:08 --> Unknown column 'products_sales.products_list_id' in 'on clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_ListModel.php(52): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(195): App\Models\Products_ListModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 06:14:52 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 06:14:52 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_Sales_DetailModel.php(54): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(230): App\Models\Products_Sales_DetailModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
+ERROR - 2022-01-06 06:15:01 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-01-06 06:15:01 --> Unknown column 'id' in 'where clause'
+#0 C:\wamp64\www\oneProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\oneProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\oneProject\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\oneProject\app\Models\Products_Sales_DetailModel.php(54): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\oneProject\app\Controllers\Home.php(230): App\Models\Products_Sales_DetailModel->get_all_data()
+#6 C:\wamp64\www\oneProject\system\CodeIgniter.php(824): App\Controllers\Home->FetchData()
+#7 C:\wamp64\www\oneProject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\wamp64\www\oneProject\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\wamp64\www\oneProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\wamp64\www\oneProject\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\o...')
+#11 {main}
